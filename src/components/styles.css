@@ -1,0 +1,50 @@
+body {
+    background-color: #373840; /* Replace with your desired color code */
+    min-Height: 100px;
+}
+.header-text {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 96px; /* Adjust font size as needed */
+  color: #FFFFFF;
+  margin-left: 120px;
+}
+.text {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 40px;
+  color: #FFFFFF;
+  margin-left: 120px;
+}
+.plain-link {
+  color: #FFFFFF;
+  text-decoration: none; /* Remove default underline */
+  font-Family: 'JetBrains Mono', monospace;
+  font-Size: 40px;
+  color: '#FFFFFF';
+  margin-Left: 120px;
+}
+.plain-link:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+.link-list {
+  list-style: none; /* Remove the default bullets */
+  padding: 0; /* Optional: Remove padding to eliminate any extra space */
+}
+.resume-text-title{
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 18px;
+  color: #FFFFFF;
+  text-decoration: underline;
+  font-weight: bold;
+}
+.resume-text {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.resume-container {
+  border: 2px solid #ccc;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding: 20px;
+  border-radius: 10px;
+}
