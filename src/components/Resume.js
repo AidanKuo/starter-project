@@ -7,7 +7,7 @@ function Resume() {
     <div>
       <p className='text'>Resume</p>
       <div className='resume-container'>
-        <p style={{ textAlign: 'center' }}className='resume-text'>Aidan L. Kuo<br/>2827 Irvington Dr. / Pearland, TX 77584<br/>akuo18@uw.edu / 832-206-5968</p>
+        <p style={{ textAlign: 'center' }}className='resume-text'>Aidan L. Kuo<br/>akuo18@uw.edu / 832-206-5968</p>
         <p className='resume-text-title'>Education</p>
         <p className='resume-text'>University of Washington
         <br/>Expected June 2025 Seattle, WA
