@@ -20,6 +20,7 @@ function Resume() {
         <br/>June 2019 – 2020
         <br/>Crew Member (2019), Shift Manager (2020)
         <br/>Grazia Italian Kitchen / Pearland, TX
+        <br/>Waiters Assistant
         <br/>June 2018 - 2019
         </p>
         <br/>
