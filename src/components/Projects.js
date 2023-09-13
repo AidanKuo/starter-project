@@ -15,6 +15,13 @@ function Projects() {
       <nav>
         <ul className="link-list">
           <li>
+            <Link to="https://akuo18.shinyapps.io/final-project-A4/" className="plain-link">2021 Tokyo Olympics website</Link>
+          </li>
+        </ul>
+      </nav>
+      <nav>
+        <ul className="link-list">
+          <li>
             <Link to="/starter-project" className="plain-link">Home</Link>
           </li>
         </ul>
