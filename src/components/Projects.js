@@ -8,7 +8,7 @@ function Projects() {
       <nav>
         <ul className="link-list">
           <li>
-            <Link to="https://www.figma.com/file/0DrginWCTEuGjYCL7DLdNW/akuo18's-team-library?type=design&node-id=1913-2&mode=design" className="plain-link">VetConnect Mobile App</Link>
+            <Link to="https://www.figma.com/proto/0DrginWCTEuGjYCL7DLdNW/akuo18's-team-library?type=design&node-id=1924-60&t=PXKV9hoJFZH2aoJP-1&scaling=scale-down&page-id=1913%3A2&starting-point-node-id=1924%3A60&mode=design" className="plain-link">VetConnect Mobile App</Link>
           </li>
         </ul>
       </nav>
