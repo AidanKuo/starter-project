@@ -7,9 +7,9 @@ function About() {
     <div>
       <p className='text'>About</p>
       <p style={{ textAlign: 'center' }}className='resume-text'>Hello!
-      My name is Aidan Kuo
-      I grew up in Houston Texas
-      I am currently a student at University of Washington</p>
+      <br/>My name is Aidan Kuo
+      <br/>I grew up in Houston Texas
+      <br/>I am currently a student at University of Washington</p>
       <nav>
         <ul className="link-list">
           <li>
