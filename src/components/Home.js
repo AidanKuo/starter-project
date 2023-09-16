@@ -38,13 +38,13 @@ function Home() {
           </li>
         </ul>
       </nav>
-      {/*<nav>
+      <nav>
         <ul className="link-list">
           <li>
             <Link to="/about" className="plain-link">About</Link>
           </li>
         </ul>
-      </nav>*/}
+      </nav>
       <nav>
         <ul className="link-list">
           <li>
