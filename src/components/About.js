@@ -10,7 +10,7 @@ function About() {
       <nav>
         <ul className="link-list">
           <li>
-            <Link to="/" className="plain-link">Home</Link>
+            <Link to="/website" className="plain-link">Home</Link>
           </li>
         </ul>
       </nav>

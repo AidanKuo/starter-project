@@ -39,7 +39,7 @@ function Resume() {
       <nav>
         <ul className="link-list">
           <li>
-            <Link to="/starter-project" className="plain-link">Home</Link>
+            <Link to="/website" className="plain-link">Home</Link>
           </li>
         </ul>
       </nav>
