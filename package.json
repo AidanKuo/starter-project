@@ -1,6 +1,6 @@
 {
-  "name": "starter-project",
-  "homepage": "https://AidanKuo.github.io/starter-project/",
+  "name": "website",
+  "homepage": "https://AidanKuo.github.io/website/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
