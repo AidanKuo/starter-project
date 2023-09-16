@@ -7,6 +7,9 @@ function Home() {
   return (
     <div>
       <p className='header-text'>Aidan<br />Kuo</p>
+      <div className='ASCII-container'>
+        <p>wsp</p>
+      </div>
       <nav>
         <ul className="link-list">
           <li>
